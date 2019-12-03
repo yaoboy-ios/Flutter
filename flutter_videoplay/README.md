@@ -2,6 +2,13 @@
 
 A new Flutter project.
 
+//使用示例
+SimpleViewPlayer(
+   视频地址(string),
+   photoImg: 视频未播放时的背景图(string),
+   isFullScreen: 是否全屏(bool),
+),
+
 ## Getting Started
 
 This project is a starting point for a Dart
