@@ -9,8 +9,8 @@ import 'dart:async';
 import 'dart:io';
 
 //此地址仅用于智仔视频播放使用
-const String localhost_Host = 'http://www.zhizai.xin/';
-const String bos_Host = 'http://resource.zhizai.xin/';
+const String localhost_Host = 'http://www.******.com/';
+const String bos_Host = 'http://resource.******.com/';
 
 class SimpleViewPlayer extends StatefulWidget {
   String source;
